@@ -11,4 +11,7 @@ SWM는 효율적인 자기주도학습을 위한 웹서비스입니다.
 - 백엔드: Node.js, MySQL, Amazon RDS
 
 ## 2. 시연영상
-<img src="https://user-images.githubusercontent.com/70836275/152638808-6a69a742-d90e-4a66-bef3-063ba21459e3.gif"></img>
+<img src="https://user-images.githubusercontent.com/70836275/152639947-aa00a636-3816-45b2-9928-6d940b01eddb.gif"></img>
+<img src="https://user-images.githubusercontent.com/70836275/152639953-cf68d9a3-7669-4e97-9df1-f6813a9f39b1.gif"></img>
+<img src="https://user-images.githubusercontent.com/70836275/152639958-62015223-b8fb-45e8-99d4-ac425fb3d971.gif"></img>
+<img src="https://user-images.githubusercontent.com/70836275/152639960-3589988b-86c3-4789-afe5-59e1f72e0195.gif"></img>
